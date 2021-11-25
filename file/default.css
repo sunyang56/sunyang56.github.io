@@ -5,10 +5,7 @@ a {color:#000;font-size:14px;}
 #text{width:272px;
 height:560px;
 left:188px;
-top:80px;position:absolute;
-}
-a{
-    text-decoration: none;
+top:80px;position:absolute;text-decoration: none;
 }
 #code{display:none;font-size:16px;}
 #clock-box {position:absolute;left:60px;top:550px;font-size:28px;display:none;}
